@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,500;1,300;1,400&display=swap');
+
+
+
+
+.navbar-collapse{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ff99cc;
+}
+.navbar{
+    background-color: #ff99cc;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+     color: aliceblue;
+    
+}
+.navbar-brand{
+    color: rgb(223, 223, 237);
+    font-family: "popins";
+    font-size: 30px;
+    
+}
+.img1{
+    width:282px;
+    height: 377px;
+    border-radius:3%;
+    border: solid 1px rgb(176, 89, 89);
+}
+.cols{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.name h1{
+    font-size: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #a3125a;
+
+}
+.name p{
+    color: gray;
+    font-family:popins;
+    font-weight: bolder;
+}
+.ic i{
+    color:red;
+    font-size: 25px;
+    margin: 0px 10px;   
+   
+
+}
+.img2{
+    width: 336px;
+    height: 440px;
+    border-radius: 8px;
+    border: solid 2px rgb(158, 6, 90);
+    padding: 1px;
+}
+.about-c{
+    padding: 0px 30px;
+    margin-top: 2px;
+    margin-bottom: 20rem;
+    margin-top: 2px;
+    font-family: popins;
+    
+   
+    
+}
+.about-c span{
+    font-size: 25px;
+    color: #ff99cc;
+    font-weight: bold;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header h1{
+    color: rgb(212, 107, 207);
+    font-weight: bold;
+    font-family: popins;
+    margin-bottom: 13rem;
+   
+
+}
+.card-text{
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff99cc;
+}
+.outer{
+    width: 100%;
+}
+.wrap{
+    width: 100%;
+}
+.progress-bar{
+    background-color: #ff99cc;
+}
+.wrap p{
+    font-family: popins;
+}
+.img-3{
+    width: 350px;
+
+}
+textarea{
+    width: 100%;
+}
+.wraper{
+    padding: 50px 30px;
+    border: solid 3px rgb(158, 6, 90);
+    border-radius: 2px;
+}
+.wraper h3{
+    margin-bottom: 20px;
+    color: #130e11;
+}
+.footer{
+    background-color: #ff99cc;
+    padding: 30px 0px;
+}
+.footer p{
+    color: aliceblue;
+}
+.ic-ft{
+    width:max-content;
+    margin: auto;
+}
+.ic-ft{
+    color: white;
+    font-size: 25px;
+
+}
+.ic-ft{
+   margin: 0px 8px;
+   margin: auto;
+}
+.img4{
+    width: 1500px;
+    height: 2000px;
+
+}
+
